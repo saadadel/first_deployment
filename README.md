@@ -3,10 +3,10 @@ This is the 6th project for udacity full stack nanodegree
 
 ##### IP Address of server:
 
-3.121.213.74 .
+18.185.59.214
 
 ##### hostname: 
-ec2-3-121-213-74.eu-central-1.compute.amazonaws.com
+ec2-18-185-59-214.eu-central-1.compute.amazonaws.com
 
 ##### private key of grader:
 -----BEGIN RSA PRIVATE KEY-----
@@ -58,7 +58,7 @@ hw7pqRDTNdJnj5v7N+8+KHz2AI2qKpCCrilA3Rr4UUDpYaUzmu4=
 
 -    The ssh port is 2200 - a non-default port. The normal port (22) has been disabled.
 
-#Third Party Resources
+# Third Party Resources
 
  -   https://github.com/mulligan121/Udacity-Linux-Configuration
 
